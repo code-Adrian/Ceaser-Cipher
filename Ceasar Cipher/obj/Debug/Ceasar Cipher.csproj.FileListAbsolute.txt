@@ -1,0 +1,10 @@
+C:\Users\Adrian\source\repos\Ceasar Cipher\Ceasar Cipher\bin\Debug\Ceasar Cipher.exe.config
+C:\Users\Adrian\source\repos\Ceasar Cipher\Ceasar Cipher\bin\Debug\Ceasar Cipher.exe
+C:\Users\Adrian\source\repos\Ceasar Cipher\Ceasar Cipher\bin\Debug\Ceasar Cipher.pdb
+C:\Users\Adrian\source\repos\Ceasar Cipher\Ceasar Cipher\obj\Debug\Ceasar Cipher.csprojAssemblyReference.cache
+C:\Users\Adrian\source\repos\Ceasar Cipher\Ceasar Cipher\obj\Debug\Ceasar_Cipher.Properties.Resources.resources
+C:\Users\Adrian\source\repos\Ceasar Cipher\Ceasar Cipher\obj\Debug\Ceasar Cipher.csproj.GenerateResource.cache
+C:\Users\Adrian\source\repos\Ceasar Cipher\Ceasar Cipher\obj\Debug\Ceasar Cipher.csproj.CoreCompileInputs.cache
+C:\Users\Adrian\source\repos\Ceasar Cipher\Ceasar Cipher\obj\Debug\Ceasar Cipher.exe
+C:\Users\Adrian\source\repos\Ceasar Cipher\Ceasar Cipher\obj\Debug\Ceasar Cipher.pdb
+C:\Users\Adrian\source\repos\Ceasar Cipher\Ceasar Cipher\obj\Debug\Ceasar_Cipher.Main.resources
